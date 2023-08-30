@@ -14,6 +14,7 @@ Other Languages: *[Greek](https://github.com/ieeesbkastoria/IoT_Romilos_Project/
     - [Software Setup](#software-setup)
   - [Troubleshooting](#troubleshooting)
   - [Contributing and License](#contributing-and-license)
+  - [Project Implementation Team](#project-implementation-team)
 
 ## Project Motivation
 
@@ -102,3 +103,9 @@ We appreciate your interest and support in making the IoT_Romilos_Project better
 Feel free to communicate with us through the project repository's issue tracker or by reaching out to the project maintainers directly.
 
 Let's grow together in the exciting field of IoT!
+
+## Project Implementation Team
+
+[Anastasiou Christos](https://github.com/Christos-16) - 4th Year Student of the University of Western Macedonia, Department of Informatics  
+[Polychronis Kotsiopoulos](https://github.com/pjkots01) - 3rd Year Student of the University of Western Macedonia, Department of Computer Science  
+[Christos Hitiris](https://github.com/Tilemaxos46) - PhD Candidate of the University of Western Macedonia in the Department of Electrical & Computer Engineering  
